@@ -1,10 +1,10 @@
 # {Project yet to be decided} by Jakub Zurakowski, Michael Sibbald and {Name} #
-# Institute of Technology, Carlow #
+## Institute of Technology, Carlow ##
 
-## About ##
+# About #
 Per Data Science module at Institute of Technology Carlow, students are tasked to write an application that will gather and process data.
 
-## Technologies used ##
+# Technologies used #
 - Python
 - Flask
 - Flask RESTful API
@@ -14,4 +14,4 @@ Per Data Science module at Institute of Technology Carlow, students are tasked t
 - JavaScript
 - JQuery
 
-## Learning outcomes ##
+# Learning outcomes #
