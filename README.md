@@ -5,6 +5,7 @@
 Per Data Science module at Institute of Technology Carlow, students are tasked to write an application that will gather and process data.
 
 # Technologies used #
+- git & git board
 - Python
 - Flask
 - Flask RESTful API
