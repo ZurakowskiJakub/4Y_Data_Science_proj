@@ -1,4 +1,4 @@
-# {Project yet to be decided} by Jakub Zurakowski, Michael Sibbald and {Name} #
+# {Project yet to be decided} by Jakub Zurakowski, Michael Sibbald and Alan Cahill #
 ## Institute of Technology, Carlow ##
 
 # About #
