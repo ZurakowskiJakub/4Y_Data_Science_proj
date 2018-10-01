@@ -14,5 +14,7 @@ for arrest in original_data['data']:
         temp_dict[columns[index]] = arrest_detail
     temp_list.append(temp_dict)
 
-with open("arrest_data.json", "w") as file:
+with open("arrest_data.json", "w+") as file:
     json.dump(temp_list, file, indent=4)
+
+print("arrest_data.json updated!")
