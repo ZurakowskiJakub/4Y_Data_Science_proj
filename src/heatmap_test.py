@@ -22,7 +22,7 @@ def index():
 
     print(len(data))
 
-    return render_template("index.html", data=data[:5000])
+    return render_template("index.html", data=data)
 
 
 if __name__ == "__main__":
