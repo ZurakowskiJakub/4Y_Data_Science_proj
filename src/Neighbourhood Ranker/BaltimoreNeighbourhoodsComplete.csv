@@ -1,0 +1,255 @@
+name,area,population,density,householdincome,rent,maleage,femaleage,PopulationRank,IncomeRank
+Rosemont East ,0.250,1478,5909,49058,719,38.6,40.5,Normal,Normal
+Sabina-Mattfeldt ,0.128,235,1835,122736,1219,45.2,,Sparse,Normal
+Saint Agnes ,0.076,380,5002,36437,423,41.1,43.5,Sparse,Lower
+Saint Josephs ,0.140,2005,14326,38528,1046,34.5,39.6,Normal,Lower
+Saint Paul ,0.116,222,1914,32498,552,33.7,40.6,Sparse,Lower
+Sandtown-Winchester ,0.406,9405,23179,28718,523,33.0,38.5,Dense,VeryLow
+Seton Business Park ,0.298,170,570,50359,539,46.9,51.2,Sparse,Normal
+Seton Hill ,0.151,2080,13756,36710,870,27.7,30.6,Normal,Lower
+Sharp-Leadenhall ,0.066,960,14529,71838,1280,34.3,37.8,Normal,Normal
+Shipley Hill ,0.183,2640,14421,28551,707,35.4,36.3,Normal,VeryLow
+Sobo ,0.130,2132,16346,98305,1621,30.1,30.2,Normal,Normal
+South Clifton Park ,0.096,758,7913,32039,766,37.6,39.8,Normal,VeryLow
+Southeast Baltimore ,9.986,66367,6646,64230,1177,34.7,35.1,Normal,Normal
+Southwest Baltimore ,10.262,68170,6643,43692,742,36.1,40.5,Normal,Normal
+Spring Garden Industrial Area ,0.246,679,2756,79437,1260,27.8,,Sparse,Normal
+Stadium Area ,0.166,1341,8063,59925,1504,33.8,39.3,Normal,Normal
+Stonewood-Pentwood-Winston ,0.098,1636,16623,49614,747,26.7,31.9,Normal,Normal
+Ten Hills ,0.319,1378,4320,70008,834,33.0,40.5,Sparse,Normal
+The Orchards ,0.202,474,2342,170011,1862,39.5,,Sparse,Normal
+Towanda-Grantley ,0.140,1588,11316,32488,642,37.1,40.1,Normal,Lower
+Tremont ,0.035,480,13768,53555,873,37.4,44.4,Normal,Normal
+Tuscany-Canterbury ,0.153,1040,6803,130154,1424,39.5,36.6,Normal,Normal
+Union Square ,0.065,1272,19606,35290,691,32.9,38.0,Dense,Lower
+University Of Maryland ,0.082,1002,12257,45158,957,27.6,29.6,Normal,Normal
+Uplands ,0.200,484,2422,67591,396,37.3,41.9,Sparse,Normal
+Upper Fells Point ,0.123,3201,25973,113963,1553,41.6,40.0,Dense,Normal
+Upton ,0.290,5247,18062,19827,556,27.3,32.6,Dense,VeryLow
+Villages Of Homeland ,0.011,33,3072,43125,712,48.2,,Sparse,Normal
+Violetville ,0.600,2596,4324,42749,457,44.9,45.9,Sparse,Normal
+Walbrook ,0.210,2683,12793,38530,743,37.3,,Normal,Lower
+Waltherson ,0.657,6739,10260,60739,853,36.6,42.9,Normal,Normal
+Washington Hill ,0.005,97,18553,30066,397,28.1,,Dense,VeryLow
+Washington Village ,0.325,4012,12350,42566,1026,34.4,33.5,Normal,Normal
+Waverly ,0.149,3101,20853,41771,983,36.5,44.1,Dense,Normal
+West Arlington ,0.276,1302,4715,48050,999,34.8,52.3,Sparse,Normal
+West Baltimore ,2.703,43663,16155,30449,601,33.8,37.8,Normal,VeryLow
+West Forest Park ,0.364,2721,7476,50131,784,37.5,41.1,Normal,Normal
+West Hills ,0.350,2369,6765,52616,803,40.1,39.9,Normal,Normal
+Westfield ,0.427,3175,7428,61508,835,41.7,41.5,Normal,Normal
+Westgate ,0.337,3889,11556,64319,833,33.6,39.7,Normal,Normal
+Westport ,0.506,2650,5234,50483,441,28.5,32.4,Sparse,Normal
+Wilson Heights ,0.087,655,7557,62310,1286,32.9,38.4,Normal,Normal
+Wilson Park ,0.120,1283,10706,52352,800,31.6,38.2,Normal,Normal
+Winchester ,0.072,922,12729,26374,853,30.7,39.7,Normal,VeryLow
+Windsor Hills ,0.228,1326,5812,56910,748,40.0,43.3,Sparse,Normal
+Winston-Govans ,0.115,1021,8861,41321,760,37.1,44.8,Normal,Normal
+Woodberry ,0.514,1324,2574,39583,1394,42.8,40.5,Sparse,Lower
+Woodbourne Heights ,0.135,1517,11200,43021,793,37.9,45.1,Normal,Normal
+Woodbourne-McCabe ,0.074,773,10477,39464,698,35.3,40.0,Normal,Lower
+Woodbrook ,0.103,1461,14142,33624,780,31.6,36.7,Normal,Lower
+Woodmere ,0.259,4061,15681,39343,685,40.0,40.1,Normal,Lower
+Wyman Park ,0.106,1677,15797,68574,1174,42.1,42.1,Normal,Normal
+Wyndhurst ,0.298,1029,3455,168531,874,33.6,39.8,Sparse,Normal
+Yale Heights ,0.207,2718,13122,43206,862,30.3,37.9,Normal,Normal
+Abell ,0.075,1134,15088,58264,852,34.2,36.5,Normal,Normal
+Allendale ,0.432,4115,9533,41955,626,34.6,41.5,Normal,Normal
+Arcadia ,0.225,1079,4787,63877,769,35.4,42.4,Sparse,Normal
+Arlington ,0.178,2307,12983,41776,504,34.2,39.8,Normal,Normal
+Armistead Gardens ,0.412,2617,6358,31872,570,29.5,39.9,Normal,VeryLow
+Ashburton ,0.350,3267,9336,39611,709,37.4,45.8,Normal,Lower
+Baltimore-Linwood ,0.320,7445,23282,58293,1045,31.6,32.1,Dense,Normal
+Barclay ,0.138,4075,29552,29080,786,35.8,31.1,Dense,VeryLow
+Barre Circle ,0.022,332,14768,45715,982,29.5,31.1,Normal,Normal
+Beechfield ,0.402,4597,11432,47870,783,35.8,43.7,Normal,Normal
+Belair-Edison ,0.833,14706,17654,44933,884,32.0,37.9,Dense,Normal
+Belair-Parkside ,0.034,123,3607,60368,791,36.1,,Sparse,Normal
+Bellona-Gittings ,0.164,386,2351,164473,1872,49.9,53.1,Sparse,Normal
+Berea ,0.341,3629,10633,34322,775,31.9,41.9,Normal,Lower
+Better Waverly ,0.274,3711,13558,38713,874,34.2,40.8,Normal,Lower
+Beverly Hills ,0.103,694,6737,65844,649,38.2,44.4,Normal,Normal
+Biddle Street ,0.110,1869,17025,38840,661,33.5,40.8,Dense,Lower
+Blythewood ,0.077,950,12315,178913,780,25.9,27.8,Normal,Normal
+Bolton Hill ,0.224,5341,23842,40178,807,32.6,36.9,Dense,Normal
+Booth-Boyd ,0.038,1130,29525,24486,651,39.9,39.3,Dense,VeryLow
+Brewers Hill ,0.093,1231,13283,69896,1116,32.4,,Normal,Normal
+Bridgeview ,0.281,2584,9209,36717,746,37.6,39.2,Normal,Lower
+Broadway East ,0.342,7510,21951,30167,683,37.3,39.1,Dense,VeryLow
+Broening Manor ,0.163,1319,8088,39290,722,36.0,36.9,Normal,Lower
+Burleith-Leighton ,0.078,370,4713,34623,737,30.5,,Sparse,Lower
+Butcher's Hill ,0.074,2113,28524,83005,959,33.6,34.1,Dense,Normal
+Callaway-Garrison ,0.185,1740,9399,44701,589,32.5,42.0,Normal,Normal
+Cameron Village ,0.107,1160,10887,52389,770,34.8,37.3,Normal,Normal
+Canton ,0.784,10965,13980,93478,1594,32.8,33.3,Normal,Normal
+Canton Industrial Area ,2.262,1740,769,57035,1180,32.4,32.8,Sparse,Normal
+Carroll - Camden Industrial Area ,0.665,1492,2242,53853,477,31.9,36.1,Sparse,Normal
+Carroll Park ,0.361,830,2297,30335,479,36.6,,Sparse,VeryLow
+Carroll-South Hilton ,0.482,1881,3904,38371,835,29.6,36.6,Sparse,Lower
+Carrollton Ridge ,0.226,4293,18964,28104,657,33.5,33.5,Dense,VeryLow
+Cedarcroft ,0.141,756,5381,95166,1002,42.7,46.6,Sparse,Normal
+Cedmont ,0.373,2810,7529,53883,883,33.5,41.3,Normal,Normal
+Cedonia ,0.289,3149,10905,43352,654,32.3,34.9,Normal,Normal
+Central Baltimore ,2.297,40303,17544,36180,849,32.4,34.9,Dense,Lower
+Central Park Heights ,0.442,5877,13303,34338,755,36.3,41.8,Normal,Lower
+Charles North ,0.166,1865,11238,50796,872,33.6,,Normal,Normal
+Charles Village ,0.329,5982,18205,38291,707,39.3,,Dense,Lower
+Cheswolde ,0.860,6264,7282,82328,1011,35.8,35.3,Normal,Normal
+Chinquapin Park-Belvedere ,0.184,2147,11678,56135,822,29.2,36.0,Normal,Normal
+Christopher ,0.158,560,3552,55207,776,44.5,45.5,Sparse,Normal
+Claremont-Freedom ,0.336,721,2143,31300,770,26.4,41.2,Sparse,VeryLow
+Clifton Park ,0.569,861,1512,42808,814,34.5,40.2,Sparse,Normal
+Coldspring ,0.638,972,1525,53761,685,48.0,50.6,Sparse,Normal
+Coppin Heights ,0.199,2791,14029,34529,752,36.6,34.8,Normal,Lower
+Cross Country ,0.515,2863,5563,74804,954,38.5,,Sparse,Normal
+Cross Keys ,0.305,1084,3550,98647,1278,46.5,48.1,Sparse,Normal
+Cylburn ,0.220,3135,14223,35886,900,42.5,48.3,Normal,Lower
+Darley Park ,0.059,1014,17233,43939,875,43.0,46.2,Dense,Normal
+Dolfield ,0.173,2658,15351,35750,737,39.8,46.7,Normal,Lower
+Downtown ,0.397,3600,9066,49937,1327,33.2,,Normal,Normal
+Druid Heights ,0.089,2041,22942,22845,606,33.0,33.5,Dense,VeryLow
+Druid Hill Park ,0.958,874,912,47970,724,36.9,39.3,Sparse,Normal
+Dunbar-Broadway ,0.172,1610,9346,29183,725,30.3,,Normal,VeryLow
+East Arlington ,0.131,1357,10371,37177,802,37.7,42.0,Normal,Lower
+East Baltimore ,3.780,53608,14182,32272,707,32.4,35.6,Normal,VeryLow
+East Baltimore Midway ,0.295,3176,10778,28443,812,38.4,32.2,Normal,VeryLow
+Easterwood ,0.074,1248,16841,39209,734,33.7,,Normal,Lower
+Eastwood ,0.025,236,9489,53011,880,35.6,,Normal,Normal
+Edmondson Village ,0.290,6323,21771,43256,817,36.3,40.5,Dense,Normal
+Ednor Gardens-Lakeside ,0.517,4335,8391,50531,754,40.7,44.6,Normal,Normal
+Ellwood Park ,0.131,2933,22364,34394,811,31.0,31.5,Dense,Lower
+Evergreen ,0.056,166,2941,124039,918,44.2,,Sparse,Normal
+Evergreen Lawn ,0.052,874,16707,37963,865,33.5,,Normal,Lower
+Fairmont ,0.167,237,1415,40085,783,52.3,50.7,Sparse,Normal
+Fallstaff ,0.295,6818,23093,48272,1156,38.9,43.9,Dense,Normal
+Federal Hill ,0.144,2723,18944,107202,1717,35.9,34.4,Dense,Normal
+Fells Point ,0.449,3380,7531,93080,1599,35.1,31.8,Normal,Normal
+Forest Park ,0.237,2722,11469,50617,694,38.8,40.1,Normal,Normal
+Four By Four ,0.071,1559,4422059,4454899,44869,28.2,36.9,Dense,Higher
+Frankford ,2.116,17592,8315,47304,756,35.0,37.5,Normal,Normal
+Franklin Square ,0.174,4486,25747,29684,583,36.9,,Dense,VeryLow
+Franklintown Road ,0.122,1440,11831,29762,793,31.0,39.5,Normal,VeryLow
+Garwyn Oaks ,0.127,1522,11993,60176,827,39.9,41.1,Normal,Normal
+Gay Street ,0.113,2424,21493,17104,585,22.4,29.7,Dense,VeryLow
+Glen ,0.833,7091,8513,52188,863,41.9,38.6,Normal,Normal
+Glen Oaks ,0.273,3847,14090,49068,816,32.8,37.1,Normal,Normal
+Glenham-Belford ,0.747,6504,8708,59324,810,39.2,40.3,Normal,Normal
+Greektown ,0.226,2637,11656,43051,1043,33.3,34.2,Normal,Normal
+Greenmount Cemetery ,0.104,2757,26614,34808,763,35.1,30.6,Dense,Lower
+Greenmount West ,0.069,1864,27138,36442,776,32.8,,Dense,Lower
+Greenspring ,0.175,3253,18563,36331,636,37.8,38.8,Dense,Lower
+Guilford ,0.554,4601,8298,88414,1094,39.3,37.2,Normal,Normal
+Gwynns Falls ,0.917,2220,2420,45138,951,41.3,43.7,Sparse,Normal
+Hampden ,0.622,5343,8593,66574,1062,39.8,38.8,Normal,Normal
+Hanlon ,0.417,2534,6073,40944,885,32.6,42.4,Normal,Normal
+Harford-Echodale ,0.967,8477,8770,53525,807,38.0,38.9,Normal,Normal
+Harlem Park ,0.312,5942,19019,23727,518,32.1,38.2,Dense,VeryLow
+Harwood ,0.074,1921,25833,40023,908,31.8,,Dense,Normal
+Heritage Crossing ,0.083,1276,15375,20598,598,25.6,35.9,Normal,VeryLow
+Herring Run Park ,1.166,16464,14115,46233,890,32.3,39.2,Normal,Normal
+Highlandtown ,0.139,3444,24780,56961,1010,31.8,,Dense,Normal
+Hillen ,0.167,1370,8189,51541,782,28.2,28.0,Normal,Normal
+Hoes Heights ,0.079,902,11402,66974,1067,41.0,37.4,Normal,Normal
+Holabird Industrial Park ,0.555,458,825,41237,906,38.2,39.3,Sparse,Normal
+Hollins Market ,0.107,1717,16011,37156,813,29.5,36.2,Normal,Lower
+Homeland ,0.612,3207,5238,115272,696,41.8,45.4,Sparse,Normal
+Homestead ,0.521,6922,13278,45730,757,39.7,45.0,Normal,Normal
+Hopkins Bayview ,0.350,2136,6105,49412,785,36.5,33.3,Normal,Normal
+Hunting Ridge ,0.259,1174,4531,55360,663,40.2,47.7,Sparse,Normal
+Idlewood ,0.202,2964,14693,59360,1008,37.1,36.1,Normal,Normal
+Inner Harbor ,0.407,2693,6618,93398,1248,38.8,38.5,Normal,Normal
+Irvington ,0.884,5188,5869,48898,612,40.9,45.2,Normal,Normal
+Johns Hopkins Homewood ,0.249,2796,11235,64620,1154,45.1,40.2,Normal,Normal
+Johnston Square ,0.178,2157,12115,35375,555,30.3,32.6,Normal,Lower
+Jones Falls Area ,0.298,1460,4901,64050,1105,38.8,38.4,Sparse,Normal
+Jonestown ,0.142,3112,21916,45843,1558,34.1,,Dense,Normal
+Jonston Square ,0.013,153,11505,39461,667,40.7,39.0,Normal,Lower
+Joseph Lee ,0.090,1418,15706,49412,855,36.5,,Normal,Normal
+Kenilworth Park ,0.143,1387,9720,42652,779,33.1,40.2,Normal,Normal
+Kernewood ,0.075,279,3742,131610,810,34.6,32.1,Sparse,Normal
+Keswick ,0.076,580,7619,102234,1054,39.4,38.9,Normal,Normal
+Kresson ,0.270,276,1024,46178,951,28.3,35.1,Sparse,Normal
+Lake Evesham ,0.072,503,6981,88000,888,42.7,46.8,Normal,Normal
+Lake Walker ,0.199,2154,10845,48883,691,32.2,38.2,Normal,Normal
+Lakeland ,0.555,4523,8144,47147,896,36.8,37.6,Normal,Normal
+Langston Hughes ,0.061,2098,34227,25034,754,36.5,40.5,Dense,VeryLow
+Lauraville ,0.586,3719,6348,55107,993,33.4,36.9,Normal,Normal
+Leakin Park ,0.741,2181,2944,38048,812,34.8,37.5,Sparse,Lower
+Levindale ,0.137,756,5519,34715,743,44.2,55.2,Sparse,Lower
+Liberty Square ,0.116,426,3661,37213,518,31.9,45.5,Sparse,Lower
+Little Italy ,0.055,1221,22305,104886,2197,41.9,,Dense,Normal
+Loch Raven ,0.566,4523,7992,50136,938,33.6,41.7,Normal,Normal
+Locust Point ,0.136,268,1973,116751,1760,35.8,,Sparse,Normal
+Locust Point Industrial Area ,0.839,1952,2328,117407,1836,35.5,,Sparse,Normal
+Loyola ,0.364,2015,5532,150314,712,31.6,33.2,Sparse,Normal
+Lucille Park ,0.104,1423,13698,36342,815,38.0,40.2,Normal,Lower
+Madison Park ,0.159,2923,18362,29649,628,27.7,32.1,Dense,VeryLow
+Madison-eastend ,0.105,2243,21399,37282,840,28.3,35.6,Dense,Lower
+Mayfield ,0.124,183,1474,78009,1037,40.6,42.4,Sparse,Normal
+Mcelderry Park ,0.125,3963,31710,44449,868,27.6,33.9,Dense,Normal
+Medfield ,0.267,2513,9424,70495,978,39.0,40.7,Normal,Normal
+Medford ,0.151,99,658,39613,573,29.7,36.2,Sparse,Lower
+Mid-Govans ,0.233,2522,10824,53146,763,40.2,38.6,Normal,Normal
+Mid-Town Belvedere ,0.209,4538,21667,44736,1088,32.3,,Dense,Normal
+Middle East ,0.280,4187,14948,31949,879,33.2,34.7,Normal,VeryLow
+Midtown-Edmondson ,0.146,2592,17732,29799,694,35.5,34.4,Dense,VeryLow
+Millhill ,0.196,2136,10880,30977,591,34.8,34.8,Normal,VeryLow
+Milton-Montford ,0.058,984,16907,31180,793,32.6,35.3,Dense,VeryLow
+Mondawmin ,0.383,3216,8407,35618,700,34.8,36.9,Normal,Lower
+Montebello ,0.984,8259,8396,45754,811,36.9,41.2,Normal,Normal
+Moravia-Walther ,0.135,1094,8097,63692,824,34.3,42.7,Normal,Normal
+Morgan Park ,0.068,344,5029,59463,991,30.7,43.6,Sparse,Normal
+Morgan State University ,0.261,2495,9557,53697,892,30.3,34.5,Normal,Normal
+Morrell Park ,1.317,3922,2979,38208,731,37.9,42.4,Sparse,Lower
+Mosher ,0.115,1917,16630,33785,569,33.3,40.7,Normal,Lower
+Mount Clare ,0.117,3202,27385,27702,762,34.7,37.4,Dense,VeryLow
+Mount Holly ,0.124,685,5511,40085,723,43.6,42.7,Sparse,Normal
+Mount Vernon ,0.226,4751,21023,46519,949,32.2,,Dense,Normal
+Mount Washington ,1.283,3929,3063,78521,900,45.1,44.0,Sparse,Normal
+Mount Winans ,0.089,120,1355,51964,913,36.3,47.5,Sparse,Normal
+Mt Pleasant Park ,0.271,2536,9349,44735,871,32.5,36.1,Normal,Normal
+New Northwood ,0.318,4836,15203,48824,904,30.5,34.4,Normal,Normal
+North Baltimore ,13.508,91059,6741,66545,930,38.8,41.0,Normal,Normal
+Northeast Baltimore ,15.187,128409,8455,50861,830,35.3,39.7,Normal,Normal
+Northwest ,0.117,1202,10282,28105,602,36.8,36.2,Normal,VeryLow
+Northwest Baltimore ,9.703,78642,8105,53937,772,38.2,42.4,Normal,Normal
+O'Donnell Heights ,0.159,1217,7651,35667,380,32.8,38.1,Normal,Lower
+Oakenshawe ,0.062,735,11905,59102,1038,39.9,41.1,Normal,Normal
+Oaklee ,0.043,103,2375,55309,831,35.5,35.5,Sparse,Normal
+Old Town ,0.308,17395,56536,31308,344,30.0,32.1,Dense,VeryLow
+Oliver ,0.260,5821,22407,25600,531,35.8,36.2,Dense,VeryLow
+Orangeville ,0.362,1294,3572,34723,731,27.7,35.9,Sparse,Lower
+Orangeville Industrial Area ,0.439,667,1520,34657,820,30.0,38.4,Sparse,Lower
+Original Northwood ,0.176,1553,8823,49388,769,33.2,34.7,Normal,Normal
+Otterbein ,0.081,1148,14089,97381,834,39.6,44.2,Normal,Normal
+Overlea ,0.315,987,3129,60961,717,39.1,42.4,Sparse,Normal
+Panway ,0.088,987,11181,40050,788,34.2,,Normal,Normal
+Park Circle ,0.312,3897,12502,39157,511,37.2,43.0,Normal,Lower
+Parklane ,0.124,2331,18788,30050,778,36.7,30.8,Dense,VeryLow
+Parkside ,0.134,2172,16210,36645,714,28.2,38.7,Normal,Lower
+Patterson Park ,0.223,1289,5772,86510,1422,29.6,31.5,Sparse,Normal
+Patterson Place ,0.039,1263,32190,71450,1075,28.6,32.0,Dense,Normal
+Pen Lucy ,0.169,3268,19362,47207,732,38.2,36.7,Dense,Normal
+Penn North ,0.135,3443,25441,30883,715,33.7,35.7,Dense,VeryLow
+Penn-Fallsway ,0.140,15554,111293,40506,1240,31.2,30.1,Dense,Normal
+Penrose ,0.360,2839,7889,30769,677,40.2,43.9,Normal,VeryLow
+Perkins Homes ,0.035,651,18669,30066,397,28.1,,Dense,VeryLow
+Perring Loch ,0.215,2728,12677,53722,1198,29.2,,Normal,Normal
+Pimlico ,0.290,2121,7305,44117,742,39.8,49.2,Normal,Normal
+Pleasant View Gardens ,0.046,963,20848,36875,598,42.2,,Dense,Lower
+Poplar Hill ,0.614,1488,2422,139283,1215,38.7,,Sparse,Normal
+Poppleton ,0.176,2589,14731,18025,314,24.7,31.8,Normal,VeryLow
+Port Covington ,0.324,331,1023,104088,1501,30.1,,Sparse,Normal
+Pulaski Industrial Area ,2.042,5653,2768,45502,791,33.8,37.3,Sparse,Normal
+Radnor-Winston ,0.078,634,8088,37251,752,46.8,48.2,Normal,Lower
+Ramblewood ,0.153,2069,13485,46212,839,37.3,45.0,Normal,Normal
+Reisterstown Station ,0.438,2458,5617,44123,951,41.8,45.8,Sparse,Normal
+Remington ,0.247,1826,7399,47332,964,39.8,37.3,Normal,Normal
+Reservoir Hill ,0.303,6474,21340,41334,742,39.8,41.4,Dense,Normal
+Richnor Springs ,0.032,896,27689,41520,753,41.9,46.5,Dense,Normal
+Ridgely's Delight ,0.049,360,7393,49417,1664,30.9,27.2,Normal,Normal
+Riverside ,0.338,5761,17059,114075,1821,34.6,32.3,Dense,Normal
+Rognel Heights ,0.163,1193,7304,51543,992,37.5,45.3,Normal,Normal
+Roland Park ,0.941,4972,5284,110831,1070,43.5,42.1,Sparse,Normal
+Rosebank ,0.065,542,8367,79804,806,37.8,40.5,Normal,Normal
+Rosemont ,0.235,2594,11052,37812,930,41.7,46.0,Normal,Lower

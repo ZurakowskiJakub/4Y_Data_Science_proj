@@ -98,7 +98,7 @@ with open('..\\Clean_Offence_Table\\output.csv') as csv_file:
         noloc = []
         for i in finalarrest:
             ainfo = {
-                'Age:': '',
+                'Age': '',
                 'Sex': '',
                 'Race': '',
                 'ArrestDate': '',
@@ -117,11 +117,16 @@ with open('..\\Clean_Offence_Table\\output.csv') as csv_file:
             ainfo['ArrestTime'] = i['ArrestTime']
             ainfo['Charge'] = i['Charge']
             ainfo['District'] = i['District']
-            ainfo['Neighbourhood'] = arrest[13]
+            ainfo['Neighbourhood'] = i['Neighbourhood']
             ainfo['Felony'] = i['Felony']
 
             noloc.append(ainfo)
-
+            
+        keys = noloc[0].keys()
+        with open('..\\..\\data\\finaldataset.csv', 'w+') as output_file:
+            dict_writer = csv.DictWriter(output_file, keys)
+            dict_writer.writeheader()
+            dict_writer.writerows(noloc)
 
 
 
