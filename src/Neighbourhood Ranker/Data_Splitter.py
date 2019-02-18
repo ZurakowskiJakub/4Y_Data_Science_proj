@@ -1,6 +1,7 @@
 
 import csv
 import statistics
+import re
 
 with open('BaltimoreNeighbourhoodsComplete.csv') as csv_file:
     readCSV1 = csv.reader(csv_file, delimiter=',')
@@ -55,11 +56,15 @@ with open('BaltimoreNeighbourhoodsComplete.csv') as csv_file:
 
             }
             if d and b > 0:
-                #print(d)
+
                 ainfo['Age'] = d[0]
                 ainfo['Sex'] = d[1]
                 ainfo['Race'] = d[2]
                 ainfo['ArrestDate'] = d[3]
+                x = re.split(":", d[4], 1)
+                ainfo['Hour'] = x[0]
+                y = re.split("/", d[3])
+                ainfo['Month'] = y[1]
                 ainfo['ArrestTime'] = d[4]
                 ainfo['Charge'] = d[5]
                 ainfo['District'] = d[6]
@@ -72,36 +77,41 @@ with open('BaltimoreNeighbourhoodsComplete.csv') as csv_file:
 
         densen = []
         lowinc = []
+
         for i in neighbourhoods:
 
             if 'Dense' in i['PopulationRank']:
                 densen.append(i)
-                print(1)
             if 'VeryLow' in i['IncomeRank']:
-                print(2)
                 lowinc.append(i)
 
         hidas = []
         for i in noloc:
             for n in densen:
-                if i['Neighbourhood'] is n['name']:
+                if i['Neighbourhood'] in n['name']:
                     hidas.append(i)
         lowincas = []
         for i in noloc:
             for n in lowinc:
-                if i['Neighbourhood'] is n['name']:
+                if i['Neighbourhood'] in n['name']:
                     lowincas.append(i)
 
-
-
-
         keys = noloc[0].keys()
+        print(keys)
+        with open('..\\..\\data\\DateAndHoursArrests.csv', 'w+') as output_file:
+            dict_writer = csv.DictWriter(output_file, keys)
+            dict_writer.writeheader()
+            dict_writer.writerows(noloc)
+
+
+        keys = lowincas[0].keys()
+        print(keys)
         with open('..\\..\\data\\LowIncomeArrests.csv', 'w+') as output_file:
             dict_writer = csv.DictWriter(output_file, keys)
             dict_writer.writeheader()
             dict_writer.writerows(lowincas)
 
-        keys = noloc[0].keys()
+        keys = hidas[0].keys()
         with open('..\\..\\data\\HighDensityArrests.csv', 'w+') as output_file:
             dict_writer = csv.DictWriter(output_file, keys)
             dict_writer.writeheader()
