@@ -31,14 +31,14 @@
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
           zoom: 13,
-          center: {lat: 39.2905411, lng: -76.6202967},
-          mapTypeId: 'satellite'
+          center: {lat: 39.2905411, lng: -76.6202967}
+          // mapTypeId: 'satellite'
         });
 
         heatmap = new google.maps.visualization.HeatmapLayer({
           data: getPoints(),
           map: map,
-          radius: 25,
+          radius: 15,
           dissipating: true,
           opacity: .8,
           gradient: [
@@ -56,7 +56,7 @@
           'rgba(127, 0, 63, 1)',
           'rgba(191, 0, 31, 1)',
           'rgba(255, 0, 0, 1)'
-      ]
+      ],
         });
       }
 
