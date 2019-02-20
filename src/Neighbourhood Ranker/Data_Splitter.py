@@ -61,15 +61,15 @@ with open('BaltimoreNeighbourhoodsComplete.csv') as csv_file:
                 ainfo['Sex'] = d[1]
                 ainfo['Race'] = d[2]
                 ainfo['ArrestDate'] = d[3]
-                x = re.split(":", d[4], 1)
-                ainfo['Hour'] = x[0]
-                y = re.split("/", d[3])
-                ainfo['Month'] = y[1]
                 ainfo['ArrestTime'] = d[4]
                 ainfo['Charge'] = d[5]
                 ainfo['District'] = d[6]
                 ainfo['Neighbourhood'] = d[7]
                 ainfo['Felony'] = d[8]
+                x = re.split(":", d[4], 1)
+                ainfo['Hour'] = x[0]
+                y = re.split("/", d[3])
+                ainfo['Month'] = y[0]
 
                 noloc.append(ainfo)
             b+=1
@@ -95,6 +95,19 @@ with open('BaltimoreNeighbourhoodsComplete.csv') as csv_file:
             for n in lowinc:
                 if i['Neighbourhood'] in n['name']:
                     lowincas.append(i)
+
+        both=[]
+        for i in hidas:
+            if i in lowincas:
+                both.append(i)
+
+        print(both)
+        keys = both[0].keys()
+
+        with open('..\\..\\data\\LowIncomeDenseAreas.csv', 'w+') as output_file:
+            dict_writer = csv.DictWriter(output_file, keys)
+            dict_writer.writeheader()
+            dict_writer.writerows(both)
 
         keys = noloc[0].keys()
         print(keys)
