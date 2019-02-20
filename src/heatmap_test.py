@@ -9,13 +9,14 @@ app.template_folder = "heatmap_templates"
 
 @app.route('/')
 def index():
-    with open("arrest_data.json", "r") as f:
+    # with open("arrest_data.json", "r") as f:
+    with open("../data/heatmapdata.json", "r") as f:
         list_of_arrests = json.load(f)
     
     data = []
     for arrest in list_of_arrests:
         point = {}
-        if arrest['Latitude'] is not None:
+        if arrest['Latitude'] is not None and arrest['Felony'] is not "False":
             point['Lat'] = arrest['Latitude']
             point['Lng'] = arrest['Longitude']
             data.append(point)
